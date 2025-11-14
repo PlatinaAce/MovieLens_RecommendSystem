@@ -10,10 +10,12 @@ This project implements, evaluates, and compares various movie recommendation al
 
 ## Implemented Algorithms
 This project implements and evaluates the following algorithms:
-Content-Based Filtering (CBF)
+
+### Content-Based Filtering (CBF)
 * TF-IDF (Term Frequency-Inverse Document Frequency)
 * Cosine Similarity
-Collaborative Filtering (CF)
+
+### Collaborative Filtering (CF)
 * Item-Item kNN
 * User-User kNN
 * Slope-One
